@@ -325,7 +325,7 @@
                 'view_item'          => __( 'View Documentation', 'docupress' ),
                 'add_new_item'       => __( 'Add Documentation', 'docupress' ),
                 'add_new'            => __( 'Add New', 'docupress' ),
-                'edit_item'          => __( 'Edit Documentation', 'docupress' ),
+                'edit_item'          => __( 'Edit Docs', 'docupress' ),
                 'update_item'        => __( 'Update Documentation', 'docupress' ),
                 'search_items'       => __( 'Search Documentation', 'docupress' ),
                 'not_found'          => __( 'Not documentation found', 'docupress' ),
