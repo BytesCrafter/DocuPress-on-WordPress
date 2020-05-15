@@ -41,6 +41,4 @@ This project is licensed under the GNU GPL License - see the [LICENSE](LICENSE) 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* WordPress.org
